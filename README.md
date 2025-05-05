@@ -3,7 +3,7 @@
 
 #### 1.- Listar al ménos 8 docentes del departamento
 
-![Image Description](./images/teacher_list_screen.png)
+![Image Description](./images/teachers_list_screen.png)
 ```
 ```
 
