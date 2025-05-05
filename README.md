@@ -1,5 +1,10 @@
 ### Laboratorio Calificado 2
 
+### En el siguiente Storyboard
+
+<img src="./images/main.png" width="25%" alt="Workflow">
+
+### Implementar
 
 #### 1.- Listar al ménos 8 docentes del departamento
 
