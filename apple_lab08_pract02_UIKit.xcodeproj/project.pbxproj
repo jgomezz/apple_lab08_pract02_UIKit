@@ -6,27 +6,24 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		85A967E82DC866D1008D8E5F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 85A967E72DC866CA008D8E5F /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		85A967A12DC85DEF008D8E5F /* apple_lab08_pract02_UIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = apple_lab08_pract02_UIKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		85A967E72DC866CA008D8E5F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		85A967B32DC85DF1008D8E5F /* Exceptions for "apple_lab08_pract02_UIKit" folder in "apple_lab08_pract02_UIKit" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 85A967A02DC85DEF008D8E5F /* apple_lab08_pract02_UIKit */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		85A967A32DC85DEF008D8E5F /* apple_lab08_pract02_UIKit */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				85A967B32DC85DF1008D8E5F /* Exceptions for "apple_lab08_pract02_UIKit" folder in "apple_lab08_pract02_UIKit" target */,
-			);
 			path = apple_lab08_pract02_UIKit;
+			sourceTree = "<group>";
+		};
+		85A967D92DC8668F008D8E5F /* images */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,6 +42,8 @@
 		85A967982DC85DEF008D8E5F = {
 			isa = PBXGroup;
 			children = (
+				85A967E72DC866CA008D8E5F /* README.md */,
+				85A967D92DC8668F008D8E5F /* images */,
 				85A967A32DC85DEF008D8E5F /* apple_lab08_pract02_UIKit */,
 				85A967A22DC85DEF008D8E5F /* Products */,
 			);
@@ -75,6 +74,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				85A967A32DC85DEF008D8E5F /* apple_lab08_pract02_UIKit */,
+				85A967D92DC8668F008D8E5F /* images */,
 			);
 			name = apple_lab08_pract02_UIKit;
 			packageProductDependencies = (
@@ -122,6 +122,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85A967E82DC866D1008D8E5F /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
