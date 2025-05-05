@@ -3,10 +3,10 @@
 
 #### 1.- Listar al ménos 8 docentes del departamento
 
-![Image Description](./images/teachers_list_screen.png)
+<img src="./images/teachers_list_screen.png" width="50%" alt="Teachers Screen">
 
 #### 2.- Realizar la siguiente operación matemática
 
-![Image Description](./images/calculator_screen.png)
+<img src="./images/calculator_screen.png" width="50%" alt="Calculator Screen">
 
-![Image Description](./images/results_screen.png)
+<img src="./images/results_screen.png" width="50%" alt="Results Screen">
