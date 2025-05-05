@@ -2,7 +2,7 @@
 
 ### En el siguiente Storyboard
 
-<img src="./images/main.png" width="25%" alt="Workflow">
+<img src="./images/main.png" width="75%" alt="Workflow">
 
 ### Implementar
 
